@@ -114,3 +114,14 @@ body {
   font-weight: bold;
 }
 
+@media only screen and (max-width: 415px) {
+  .containerCol {
+    width: 350px;
+  }
+}
+
+@media only screen and (max-width: 340px) {
+  .containerCol {
+    width: 300px;
+  }
+}
